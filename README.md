@@ -1,2 +1,2 @@
 # LearningCSharp
-Just trying to learn som C-Sharp basics
+Just trying to learn some C-Sharp basics
